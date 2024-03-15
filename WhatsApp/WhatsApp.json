@@ -1,0 +1,6 @@
+{
+  "InstanceId": { "UltraMSG": "InstanceId" },
+  "Token": { "UltraMSG": "Token" },
+  "Mobile": { "UltraMSG": "+905555555555" },
+  "Api": { "UltraMSG": "https://api.ultramsg.com/" }
+}
